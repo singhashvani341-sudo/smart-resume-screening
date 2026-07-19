@@ -1,0 +1,21 @@
+AI-BASED SMART RESUME SCREENING SYSTEM
+
+INSTRUCTIONS TO RUN THE PROJECT
+
+QUICK START
+
+1. Extract the ZIP file.
+2. Make sure Python is installed and added to PATH.
+3. Connect to the internet for the first launch.
+4. Double-click:
+
+   Launch Smart Resume Screening.bat
+
+The launcher will automatically:
+- Create the virtual environment
+- Install required dependencies
+- Start the application
+- Open the application in the browser
+
+The first launch may take several minutes.
+Later launches will be faster.

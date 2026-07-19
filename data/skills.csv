@@ -1,0 +1,71 @@
+skill,category
+Python,Programming
+Java,Programming
+JavaScript,Programming
+C++,Programming
+C#,Programming
+.NET,Programming
+HTML,Programming
+CSS,Programming
+SQL,Databases
+MySQL,Databases
+PostgreSQL,Databases
+SQLite,Databases
+MongoDB,Databases
+Oracle,Databases
+Excel,Data Analytics
+Advanced Excel,Data Analytics
+Power BI,Business Intelligence
+Tableau,Business Intelligence
+Data Analysis,Data Analytics
+Data Visualization,Data Analytics
+Data Cleaning,Data Analytics
+Data Modelling,Data Analytics
+Machine Learning,Artificial Intelligence
+Artificial Intelligence,Artificial Intelligence
+Natural Language Processing,Artificial Intelligence
+Scikit-learn,Artificial Intelligence
+Pandas,Data Analytics
+NumPy,Data Analytics
+Project Management,Project Management
+Agile,Project Management
+Scrum,Project Management
+Jira,Project Management
+Risk Management,Project Management
+Stakeholder Management,Project Management
+Resource Management,Project Management
+Project Planning,Project Management
+Operations Management,Operations
+Supply Chain Management,Operations
+Inventory Management,Operations
+Quality Management,Operations
+Process Improvement,Operations
+Lean Management,Operations
+Six Sigma,Operations
+Financial Analysis,Finance
+Financial Modelling,Finance
+Accounting,Finance
+Budgeting,Finance
+Forecasting,Finance
+Investment Analysis,Finance
+Digital Marketing,Marketing
+SEO,Marketing
+SEM,Marketing
+Social Media Marketing,Marketing
+Content Marketing,Marketing
+Market Research,Marketing
+Brand Management,Marketing
+Human Resource Management,Human Resources
+Recruitment,Human Resources
+Talent Acquisition,Human Resources
+Performance Management,Human Resources
+Training and Development,Human Resources
+AWS,Cloud Computing
+Microsoft Azure,Cloud Computing
+Google Cloud,Cloud Computing
+Docker,Software Tools
+Git,Software Tools
+GitHub,Software Tools
+VS Code,Software Tools
+PyCharm,Software Tools
+Streamlit,Software Tools
