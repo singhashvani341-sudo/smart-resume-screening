@@ -148,3 +148,5 @@ Current verified test result:
 ## License
 
 This project was developed for academic and educational purposes.
+
+live application link(https://smart-resume-screening-4eldxikktai4bujra8adm8.streamlit.app/)
